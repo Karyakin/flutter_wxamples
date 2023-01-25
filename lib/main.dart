@@ -1,8 +1,9 @@
 import 'package:flutter/cupertino.dart';
+import 'package:flutter_hello/widgets/AssetsExample.dart';
 
 import 'widgets/MyFirstApp.dart';
 
-void main() => runApp(MyFirstClass());
+void main() => runApp(AssetExamle());
 
 
 //https://www.youtube.com/watch?v=GhpbQdxHEr0&ab_channel=KonstantinKokorin
