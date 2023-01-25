@@ -22,7 +22,7 @@ class AssetExamle extends StatelessWidget {
               ),
               Image.asset('assets/icons/icons8.png'),
               const Padding(
-                padding: EdgeInsets.all(50),
+                padding: EdgeInsets.fromLTRB(50, 100, 50, 30),
                 child: Positioned(
                     top: 16,
                     left: 30,
